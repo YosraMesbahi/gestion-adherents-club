@@ -33,4 +33,4 @@ Il contient des informations sensibles.
 - AlwaysData
 
 ## ⛓️‍💥 Lien vers le site :  
-https://mesbahi.alwaysdata.net/backoffice-crud/login.php
+https://mesbahi.alwaysdata.net/backoffice-crud/src/login.php
